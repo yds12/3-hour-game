@@ -1,9 +1,16 @@
 # 3 Hour Game
 
-A game based on [Strike Gunner][1] developed in about 3 hours by me and my brother.
+A game based on [Strike Gunner][1] developed in about 3 hours by [victords][2] 
+and [yurids][3].
 
 Music from: http://www.tannerhelland.com/dmusic/Defiance.ogg
 
-Sounds: http://www.flashkit.com/imagesvr_ce/flashkit/soundfx/Mechanical/Dista-calpomat-7875/Dista-calpomat-7875_hifi.mp3
+Sounds: 
+
+- http://www.flashkit.com
+
+- http://www.grsites.com
 
 [1]: http://en.wikipedia.org/wiki/Strike_Gunner_S.T.G
+[2]: http://github.com/victords
+[3]: http://yurids.com
